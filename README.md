@@ -6,7 +6,7 @@ Welcome to the Weather Web App! This is a simple and cool web-based app that hel
 
 ## How to Use
 
-1. Go to the Weather Web App website (https://weather-web-app.com).
+1. Go to the Weather Web App website (https://allenwachio.github.io/WeatherApp/).
 2. You'll see a search box where you can type the name of the city you want to know the weather for.
 3. Type the city name (e.g., "New York" or "London") and press the "Get Weather" button.
 4. Ta-da! The app will show you the current weather conditions for the city you entered.
@@ -25,7 +25,7 @@ You don't need to install anything! The Weather Web App runs right in your web b
 ## Want to Contribute?
 I love contributors! Even if you're a beginner, you can help make the Weather Web App even better. Here's how you can do it:
 
-1. Find the code on our GitHub page (https://github.com/weather-web-app).
+1. Find the code on our GitHub page (https://allenwachio.github.io/WeatherApp/).
 2. If you see any bugs or issues, just let us know by creating a new "Issue" on GitHub.
 3. Want to add a new feature or improve something? Great! You can do that too. Just follow the guidelines in the "Contributing" section of the GitHub repository.
 
